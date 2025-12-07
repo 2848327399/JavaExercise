@@ -7,5 +7,6 @@ public class Main {
         new LoginJFrame();
         new RegisterJFrame();
         new GameJFrame();
+        System.out.println("666");
     }
 }
