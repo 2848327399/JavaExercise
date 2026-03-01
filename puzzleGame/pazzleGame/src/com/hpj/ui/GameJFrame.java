@@ -36,6 +36,8 @@ public class GameJFrame extends JFrame {
         menuBar.add(functionMenu);
         menuBar.add(aboutMenu);
 
+
+
         this.setJMenuBar(menuBar);
     }
 

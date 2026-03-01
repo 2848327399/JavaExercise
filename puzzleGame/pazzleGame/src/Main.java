@@ -9,6 +9,9 @@ public class Main {
         new GameJFrame();
         System.out.println("666");
         System.out.println("888");
+
+        System.out.println("111");
+
     }
 
 }
